@@ -1,0 +1,23 @@
+# Основная библиотека для Telegram бота
+aiogram>=3.0.0
+
+# Для работы с .env файлами
+python-dotenv>=1.0.0
+
+# Для работы с API Google Gemini
+google-generativeai>=0.7.0
+
+# Для аутентификации Google (используется в bot_logic.py)
+google-auth>=2.20.0
+
+# Для работы с изображениями
+Pillow>=10.0.0
+
+# Для работы с базой данных Supabase
+supabase>=2.4.0
+
+# Для асинхронной работы с файлами
+aiofiles>=23.0.0
+
+# Для HTTP запросов (используется в bot_logic.py)
+requests>=2.30.0
