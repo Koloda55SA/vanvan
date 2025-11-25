@@ -74,8 +74,8 @@ VanVan AI - бул искусственный интеллект колдонг�
 ### Шаг 1: Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/vanvan-ai-bot.git
-cd vanvan-ai-bot
+git clone https://github.com/Koloda55SA/vanvan.git
+cd vanvan
 ```
 
 ### Шаг 2: Установка зависимостей
@@ -107,7 +107,7 @@ LOG_CHAT_ID=your_log_chat_id
 
 # Instagram (опционально)
 INSTAGRAM_URL=https://instagram.com/your_account
-ADMIN_USERNAME=your_telegram_username
+ADMIN_USERNAME=Badboy05y
 ```
 
 ### Шаг 4: Настройка базы данных
@@ -324,8 +324,7 @@ WantedBy=multi-user.target
 ## 📞 Контакты / Байланыштар
 
 Для вопросов и предложений:
-- Telegram: [@your_username]
-- Email: [your_email@example.com]
+- Telegram: [@Badboy05y](https://t.me/Badboy05y)
 
 ---
 
@@ -339,7 +338,7 @@ WantedBy=multi-user.target
 ---
 
 **Версия:** 1.0.0  
-**Дата создания:** 2024  
+**Дата создания:** 2025  
 **Статус:** ✅ Готов к использованию
 
 ---
