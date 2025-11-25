@@ -1,5 +1,11 @@
 # 🤖 VanVan AI - Telegram бот для генерации изображений
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-Proprietary-red.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Year](https://img.shields.io/badge/Year-2025-orange.svg)
+![Telegram](https://img.shields.io/badge/Telegram-@Badboy05y-blue.svg?logo=telegram)
+
 ## 📋 О проекте / Проект жөнүндө
 
 **Автор:** Абдырахманов Абдыкадыр  
@@ -309,7 +315,13 @@ WantedBy=multi-user.target
 
 ## 📄 Лицензия / Лицензия
 
+![License](https://img.shields.io/badge/License-Proprietary-red.svg)
+
 Этот проект создан в рамках дипломной работы. Все права защищены.
+
+**Тип лицензии:** Proprietary (Собственническая)  
+**Авторские права:** © 2025 Абдырахманов Абдыкадыр  
+**Использование:** Только для образовательных целей (дипломная работа)
 
 ---
 
